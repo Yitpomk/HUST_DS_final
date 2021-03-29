@@ -1,0 +1,16 @@
+1:129ms fail
+2:fail 31927ms
+3:296ms 255265ms
+4:15942ms fail
+5:186ms 465ms
+6: fail 25048ms
+11:fail 100432ms
+sud0001:275ms fail
+sud0009:697ms  49455ms
+sud0012:188ms 11197ms
+sud0021:3603ms 229095ms
+mm:fail fail
+php:fail 49180ms
+tst:2ms 3ms 
+3900:fail fail
+4300:fail fail

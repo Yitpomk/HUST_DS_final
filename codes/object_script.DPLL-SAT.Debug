@@ -1,0 +1,12 @@
+debug/Clause.o
+debug/DPLL.o
+debug/dpll_widget.o
+debug/main.o
+debug/mainwindow.o
+debug/sudoku_dialog.o
+debug/sudoku_widget.o
+debug/qrc_res.o
+debug/moc_dpll_widget.o
+debug/moc_mainwindow.o
+debug/moc_sudoku_dialog.o
+debug/moc_sudoku_widget.o

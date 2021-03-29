@@ -1,0 +1,12 @@
+release/Clause.o
+release/DPLL.o
+release/dpll_widget.o
+release/main.o
+release/mainwindow.o
+release/sudoku_dialog.o
+release/sudoku_widget.o
+release/qrc_res.o
+release/moc_dpll_widget.o
+release/moc_mainwindow.o
+release/moc_sudoku_dialog.o
+release/moc_sudoku_widget.o

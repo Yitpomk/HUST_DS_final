@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>files/01.png</file>
+        <file>files/02.png</file>
+        <file>files/03.png</file>
+        <file>files/5.jpg</file>
+        <file>files/Directory.png</file>
+        <file>files/4.jpg</file>
+        <file>files/sudu_rule.cnf</file>
+        <file>files/fail.png</file>
+        <file>files/success.png</file>
+    </qresource>
+</RCC>
